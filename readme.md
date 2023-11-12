@@ -15,3 +15,4 @@ The list of challenges (old to new):
 8. [C++ Convert String To Camel Case](https://github.com/Jimmaphy/codewars/blob/main/c-plus-plus/camelcase.cpp)
 9. [TypeScript Valid Braces](https://github.com/Jimmaphy/codewars/blob/main/typescript/validbraces.ts)
 10. [TypeScript Are They The Same](https://github.com/Jimmaphy/codewars/blob/main/typescript/aretheythesame.ts)
+11. [TypeScript Even Or Odd](https://github.com/Jimmaphy/codewars/blob/main/typescript/evenorodd.ts)
