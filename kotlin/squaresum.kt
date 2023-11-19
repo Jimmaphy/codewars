@@ -10,8 +10,8 @@ fun squareSum(n: Array<Int>): Int {
     // Match the size to account for empty arrays
     // If the array is not empty, reduce the number by squaring every number
 
-    when (n.size) { 
+    when (n.size) {
         0 -> return 0
-        else -> return n.reduce {total, number -> total + (number * number)}
+        else -> return n.fold (0) { total, number -> total + (number * number) }
     }
 }
