@@ -16,3 +16,5 @@ The list of challenges (old to new):
 9. [TypeScript Valid Braces](https://github.com/Jimmaphy/codewars/blob/main/typescript/validbraces.ts)
 10. [TypeScript Are They The Same](https://github.com/Jimmaphy/codewars/blob/main/typescript/aretheythesame.ts)
 11. [TypeScript Even Or Odd](https://github.com/Jimmaphy/codewars/blob/main/typescript/evenorodd.ts)
+12. [Java Credit Card Mask](https://github.com/Jimmaphy/codewars/blob/main/java/Maskify.java)
+13. [Kotlin Square(n) Sum](https://github.com/Jimmaphy/codewars/blob/main/kotlin/squaresum.kt)
